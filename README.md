@@ -7,6 +7,7 @@
 ## 📬 Get in touch
 
 - 📫 Web: [about.me/iamrajthomas]
+- 📫 Web: [about.me/iamrajthomas](https://about.me/iamrajthomas "About.Me")
 - 🚀 LinkedIn: [linkedin.com/in/iamrajthomas] 
 - ⚡ Twitter: [twitter.com/iamrajthomas] 
 - Other Channels:
