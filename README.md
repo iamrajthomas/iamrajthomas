@@ -17,7 +17,15 @@
 - Working on latest web technologies such as React, Angular
 - Working on creating tools/ POCs to reduce repeative human efforts and automate 
 
+## &#x1f4c8; My GitHub Stats
 
+<a href="https://github.com/iamrajthomas/iamrajthomas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajthomas&hide=java,html&title_color=000000&text_color=000000" />
+</a>
+
+<a href="https://github.com/iamrajthomas/iamrajthomas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrajthomas&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="iamrajthomas's GitHub Stats" />
+</a>
 
 <!--
 **iamrajthomas/iamrajthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
