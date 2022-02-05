@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hey there!!!!!! 👋
 
-I am a [Software Engineer](https://github.com/iamrajthomas "iamrajthomas | GitHub") based in India. 
-I build universe with code (sometimes I break them, pun intended/ no pun intended :stuck_out_tongue_winking_eye:). 
+## I am a [Software Engineer](https://github.com/iamrajthomas "iamrajthomas | GitHub") based in India. 
+## I build universe with code (sometimes I break them, pun intended/ no pun intended :stuck_out_tongue_winking_eye:). 
 
-Talk to me about **Software Enginnering** :computer:, **Programming** :loop:, **Algorithms** :hourglass_flowing_sand:, **Problem Solving** :key:, **Bikes** :bike:, **Dance** :heart_eyes:, **Camera** :camera:, **Music** :headphones:, **Playstation** :video_game: and **Life** :dart: in general :bowtie: 
+## Talk to me about **Software Enginnering** :computer:, **Programming** :loop:, **Algorithms** :hourglass_flowing_sand:, **Problem Solving** :key:, **Bikes** :bike:, **Dance** :heart_eyes:, **Camera** :camera:, **Music** :headphones:, **Playstation** :video_game: and **Life** :dart: in general :relaxed:
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=iamrajthomas&color=FAC151)
 [![Csharp](https://img.shields.io/badge/Csharp-13-FAC151.svg?logo=csharp&logoWidth=20)](https://github.com/iamrajthomas)
