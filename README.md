@@ -3,36 +3,39 @@
 I am a [Software Engineer](https://github.com/iamrajthomas "iamrajthomas | GitHub") based in India. 
 I build universe with code (sometimes I break them, pun intended/ no pun intended :stuck_out_tongue_winking_eye:). 
 
-Talk to me about Software Enginnering, Programming, Algorithms, Problem Solving, Bikes, Dance, Camera, Music and Life in general :bowtie: 
+Talk to me about **Software Enginnering** :computer:, **Programming** :loop:, **Algorithms** :hourglass_flowing_sand:, **Problem Solving** :key:, **Bikes** :bike:, **Dance** :heart_eyes:, **Camera** :camera:, **Music** :headphones:, **Playstation** :video_game: and **Life** :dart: in general :bowtie: 
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=iamrajthomas&color=FAC151)
-[![typescript](https://img.shields.io/badge/TypeScript-1-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/iamrajthomas)
 [![Csharp](https://img.shields.io/badge/Csharp-13-FAC151.svg?logo=csharp&logoWidth=20)](https://github.com/iamrajthomas)
+[![typescript](https://img.shields.io/badge/TypeScript-1-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/iamrajthomas)
+[![reactjs](https://img.shields.io/badge/ReactJS-1-FAC151.svg?logo=reactjs&logoWidth=20)](https://github.com/iamrajthomas)
+[![angular](https://img.shields.io/badge/Angular-1-FAC151.svg?logo=angular&logoWidth=20)](https://github.com/iamrajthomas)
+[![javascript](https://img.shields.io/badge/JavaScript-1-FAC151.svg?logo=javascript&logoWidth=20)](https://github.com/iamrajthomas)
 
 ## 📬 Get in touch
 
-- 📫 Web: [about.me/iamrajthomas](https://about.me/iamrajthomas "iamrajthomas | About.Me")
+- 📫 AboutMe: [about.me/iamrajthomas](https://about.me/iamrajthomas "iamrajthomas | About.Me")
 - 🚀 LinkedIn: [linkedin.com/in/iamrajthomas](https://linkedin.com/in/iamrajthomas "iamrajthomas | LinkedIn")
 - ⚡ Twitter: [twitter.com/iamrajthomas](https://twitter.com/iamrajthomas "iamrajthomas | Twitter")
-- Other Channels:
+- Others:
   - :mortar_board: [dev.to/iamrajthomas](https://dev.to/iamrajthomas "iamrajthomas | Dev To")
   - :hourglass: [medium.com/@iamrajthomas](https://medium.com/@iamrajthomas "iamrajthomas | Medium")
 
 ## :calling: Recent Activity
-- Help building enterprise level web application with .Net
-- Working on latest web technologies such as React, Angular
-- Working on creating tools/ POCs to reduce repeative human efforts and automate 
+- Help building **Enterprise** level web application with .Net Framework.
+- Working on latest web technologies such as React, Angular.
+- Working on creating tools/ POCs to reduce repeative human efforts and automate things.
 
 ## 🌳 My Virtual Garden
 
-You can find my repos where I try to resolve and experiments some problems with best possible business solutions. 
+You can find my repos where I try to resolve and experiments problems with best possible business solutions. 
 I write about things I am familiar with including **C#.Net**, **Asp.Net Core**, **Asp.Net MVC**, **Angular**, **ReactJS**, **TypeScript**, **Vanilla JS**
 
 
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/iamrajthomas/iamrajthomas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajthomas&hide=java,html&title_color=000000&text_color=000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajthomas&title_color=000000&text_color=000000" />
 </a>
 
 <a href="https://github.com/iamrajthomas/iamrajthomas">
