@@ -5,11 +5,11 @@
 
 ## 📬 Get in touch
 
-- Web: [about.me/iamrajthomas]
-- LinkedIn: [linkedin.com/in/iamrajthomas]
-- Twitter: [twitter.com/iamrajthomas]
+- 📫 Web: [about.me/iamrajthomas]
+- 🚀 LinkedIn: [linkedin.com/in/iamrajthomas] 
+- ⚡ Twitter: [twitter.com/iamrajthomas] 
 - Other Channels:
-  - [dev.to/iamrajthomas]
+  - :mortar_board: [dev.to/iamrajthomas]
   - [medium.com/@iamrajthomas]
 
 <!--
