@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=iamrajthomas&color=FAC151)
-[![typescript](https://img.shields.io/badge/TypeScript-Raj-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/iamrajthomas)
+[![typescript](https://img.shields.io/badge/TypeScript-1-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/iamrajthomas)
+[![Csharp](https://img.shields.io/badge/Csharp-13-FAC151.svg?logo=csharp&logoWidth=20)](https://github.com/iamrajthomas)
 
 ## 📬 Get in touch
 
