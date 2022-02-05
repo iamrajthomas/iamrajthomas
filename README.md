@@ -12,6 +12,13 @@
   - :mortar_board: [dev.to/iamrajthomas]
   - :hourglass: [medium.com/@iamrajthomas]
 
+## :zap: Recent Activity
+- Help building enterprise level web application with .Net
+- Working on latest web technologies such as React, Angular
+- Working on creating tools/ POCs to reduce repeative human efforts and automate 
+
+
+
 <!--
 **iamrajthomas/iamrajthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
