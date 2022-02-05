@@ -6,13 +6,12 @@
 
 ## 📬 Get in touch
 
-- 📫 Web: [about.me/iamrajthomas]
-- 📫 Web: [about.me/iamrajthomas](https://about.me/iamrajthomas "About.Me")
-- 🚀 LinkedIn: [linkedin.com/in/iamrajthomas] 
-- ⚡ Twitter: [twitter.com/iamrajthomas] 
+- 📫 Web: [about.me/iamrajthomas](https://about.me/iamrajthomas "iamrajthomas | About.Me")
+- 🚀 LinkedIn: [linkedin.com/in/iamrajthomas](https://linkedin.com/in/iamrajthomas "iamrajthomas | LinkedIn")
+- ⚡ Twitter: [twitter.com/iamrajthomas](https://twitter.com/iamrajthomas "iamrajthomas | Twitter")
 - Other Channels:
-  - :mortar_board: [dev.to/iamrajthomas]
-  - :hourglass: [medium.com/@iamrajthomas]
+  - :mortar_board: [dev.to/iamrajthomas](https://dev.to/iamrajthomas "iamrajthomas | Dev To")
+  - :hourglass: [medium.com/@iamrajthomas](https://medium.com/@iamrajthomas "iamrajthomas | Medium")
 
 ## :zap: Recent Activity
 - Help building enterprise level web application with .Net
