@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a [Software Engineer](https://github.com/iamrajthomas "iamrajthomas | GitHub") based in India. 
+I build universe with code (sometimes I break them, pun intended/ no pun intended :stuck_out_tongue_winking_eye:). 
+
+Talk to me about Software Enginnering, Programming, Algorithms, Problem Solving, Bikes, Dance, Camera, Music and Life in general :bowtie: 
+
 ![GitHub Views](https://komarev.com/ghpvc/?username=iamrajthomas&color=FAC151)
 [![typescript](https://img.shields.io/badge/TypeScript-1-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/iamrajthomas)
 [![Csharp](https://img.shields.io/badge/Csharp-13-FAC151.svg?logo=csharp&logoWidth=20)](https://github.com/iamrajthomas)
@@ -17,6 +22,12 @@
 - Help building enterprise level web application with .Net
 - Working on latest web technologies such as React, Angular
 - Working on creating tools/ POCs to reduce repeative human efforts and automate 
+
+## 🌳 My Virtual Garden
+
+You can find my repos where I try to resolve and experiments some problems with best possible business solutions. 
+I write about things I am familiar with including **C#.Net**, **Asp.Net Core**, **Asp.Net MVC**, **Angular**, **ReactJS**, **TypeScript**, **Vanilla JS**
+
 
 ## &#x1f4c8; My GitHub Stats
 
