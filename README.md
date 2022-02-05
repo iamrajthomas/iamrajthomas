@@ -25,7 +25,7 @@
 </a>
 
 <a href="https://github.com/iamrajthomas/iamrajthomas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrajthomas&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="iamrajthomas's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrajthomas&show_icons=true&line_height=30&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="iamrajthomas's GitHub Stats" />
 </a>
 
 <!--
