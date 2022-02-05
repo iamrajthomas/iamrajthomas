@@ -10,7 +10,7 @@
 - ⚡ Twitter: [twitter.com/iamrajthomas] 
 - Other Channels:
   - :mortar_board: [dev.to/iamrajthomas]
-  - [medium.com/@iamrajthomas]
+  - :hourglass: [medium.com/@iamrajthomas]
 
 <!--
 **iamrajthomas/iamrajthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
