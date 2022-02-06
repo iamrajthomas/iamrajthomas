@@ -24,7 +24,7 @@
 
 ## :calling: Recent Activity
 
-- Help building **Enterprise** level web application with .Net with web technologies such as React, Angular.
+- Help building **Enterprise** level web application with .Net and web technologies such as React, Angular.
 - Loves to build tools/ POCs to reduce repeative human efforts and **automate things**.
 
 ## 🌳 My Virtual Garden
