@@ -24,8 +24,8 @@
 
 ## :calling: Recent Activity
 
-- Help building **Enterprise** level web application with .Net and web technologies such as React, Angular.
-- Loves to build tools/ POCs to reduce repeative human efforts and **automate things**.
+- :high_brightness: Help building **Enterprise** level web application with .Net and web technologies such as React, Angular.
+- :telescope: Loves to build tools/ POCs to reduce repeative human efforts and **automate things**.
 
 ## 🌳 My Virtual Garden
 
