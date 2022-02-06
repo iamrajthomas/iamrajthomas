@@ -15,12 +15,12 @@
 
 ## 📬 Get in touch
 
-- 🚀 LinkedIn: [linkedin.com/in/iamrajthomas](https://linkedin.com/in/iamrajthomas "iamrajthomas | LinkedIn")
-- ⚡ Twitter: [twitter.com/iamrajthomas](https://twitter.com/iamrajthomas "iamrajthomas | Twitter")
-- :bookmark: AboutMe: [about.me/iamrajthomas](https://about.me/iamrajthomas "iamrajthomas | About.Me")
+- 🚀 LinkedIn: [iamrajthomas | LinkedIn](https://linkedin.com/in/iamrajthomas "iamrajthomas | LinkedIn")
+- ⚡ Twitter: [iamrajthomas | Twitter](https://twitter.com/iamrajthomas "iamrajthomas | Twitter")
+- :bookmark: AboutMe: [iamrajthomas | About.Me](https://about.me/iamrajthomas "iamrajthomas | About.Me")
 - Others:
-  - :mortar_board: [dev.to/iamrajthomas](https://dev.to/iamrajthomas "iamrajthomas | Dev To")
-  - :hourglass: [medium.com/@iamrajthomas](https://medium.com/@iamrajthomas "iamrajthomas | Medium")
+  - :mortar_board: [iamrajthomas | Dev To](https://dev.to/iamrajthomas "iamrajthomas | Dev To")
+  - :hourglass: [iamrajthomas | Medium](https://medium.com/@iamrajthomas "iamrajthomas | Medium")
 
 ## :calling: Recent Activity
 
