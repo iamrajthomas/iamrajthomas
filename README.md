@@ -43,8 +43,9 @@ I write about things I am familiar with including **C#.Net**, **Asp.Net Core**, 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrajthomas&show_icons=true&line_height=40&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="iamrajthomas's GitHub Stats" />
 </a>
 
-### Happy Coding!!!!!! :heart: :white_heart: :green_heart: 
-<hr/>
+
+## Happy Coding!!!!!! :heart: :white_heart: :green_heart: 
+
 
 :copyright: 2022 | [Raj Thomas](https://github.com/iamrajthomas "iamrajthomas | GitHub") | [iamrajthomas](https://github.com/iamrajthomas "iamrajthomas | GitHub") 
 
