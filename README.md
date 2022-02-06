@@ -1,7 +1,7 @@
 ### Hey there!!!!!! 👋
 
 ## I am a [Full-Stack Software Engineer](https://github.com/iamrajthomas "iamrajthomas | GitHub") based in India. 
-## I build universe with code (sometimes I break them, pun intended/ no pun intended :stuck_out_tongue_winking_eye:). 
+## I build universe with code (sometimes I break them and I fix them back, pun intended/ no pun intended :stuck_out_tongue_winking_eye:). 
 
 ## Talk to me about **Software Enginnering** :computer:, **Programming** :loop:, **Algorithms** :hourglass_flowing_sand:, **Problem Solving** :key:, **Bikes** :bike:, **Dance** :heart_eyes:, **Camera** :camera:, **Music** :headphones:, **Playstation** :video_game: and **Life** :dart: in general..!!! :relaxed:
 
