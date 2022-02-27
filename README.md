@@ -7,7 +7,7 @@
 [![Asp.NetCore](https://img.shields.io/badge/Asp.NetCore-3-FAC151.svg?logo=dotnet&logoWidth=20&color=brightgreen&labelColor=blue)](https://github.com/iamrajthomas?tab=repositories)
 [![Asp.NetMVC](https://img.shields.io/badge/Asp.NetMVC-1-FAC151.svg?logo=dotnet&logoWidth=20&color=orange&labelColor=blue)](https://github.com/iamrajthomas?tab=repositories)
 [![Asp.Net](https://img.shields.io/badge/Asp.Net-1-FAC151.svg?logo=dotnet&logoWidth=20&color=yellow&labelColor=blue)](https://github.com/iamrajthomas?tab=repositories)
-[![Csharp](https://img.shields.io/badge/C#-14-FAC151.svg?logo=csharp&logoWidth=20&color=brightgreen)](https://github.com/iamrajthomas?tab=repositories)
+[![Csharp](https://img.shields.io/badge/CSharp-14-FAC151.svg?logo=csharp&logoWidth=20&color=brightgreen&labelColor=blue)](https://github.com/iamrajthomas?tab=repositories)
 [![Angular](https://img.shields.io/badge/Angular-2-FAC151.svg?logo=angular&logoWidth=20&color=red&labelColor=darkgreen)](https://github.com/iamrajthomas?tab=repositories)
 [![ReactJS](https://img.shields.io/badge/ReactJS-2-FAC151.svg?logo=react&logoWidth=20&color=blue&labelColor=darkgreen)](https://github.com/iamrajthomas?tab=repositories)
 [![JavaScript](https://img.shields.io/badge/JavaScript-1-FAC151.svg?logo=javascript&logoWidth=20&color=yellow&labelColor=darkgreen)](https://github.com/iamrajthomas?tab=repositories)
