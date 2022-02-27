@@ -8,10 +8,10 @@
 [![Asp.NetMVC](https://img.shields.io/badge/Asp.NetMVC-1-FAC151.svg?logo=dotnet&logoWidth=20&color=orange)](https://github.com/iamrajthomas?tab=repositories)
 [![Asp.Net](https://img.shields.io/badge/Asp.Net-1-FAC151.svg?logo=dotnet&logoWidth=20&color=yellow)](https://github.com/iamrajthomas?tab=repositories)
 [![Csharp](https://img.shields.io/badge/Csharp-14-FAC151.svg?logo=csharp&logoWidth=20&color=brightgreen)](https://github.com/iamrajthomas?tab=repositories)
-[![Typescript](https://img.shields.io/badge/TypeScript-1-FAC151.svg?logo=typescript&logoWidth=20&color=blue)](https://github.com/iamrajthomas?tab=repositories)
-[![ReactJS](https://img.shields.io/badge/ReactJS-2-FAC151.svg?logo=react&logoWidth=20&color=blue)](https://github.com/iamrajthomas?tab=repositories)
 [![Angular](https://img.shields.io/badge/Angular-2-FAC151.svg?logo=angular&logoWidth=20&color=red)](https://github.com/iamrajthomas?tab=repositories)
+[![ReactJS](https://img.shields.io/badge/ReactJS-2-FAC151.svg?logo=react&logoWidth=20&color=blue)](https://github.com/iamrajthomas?tab=repositories)
 [![JavaScript](https://img.shields.io/badge/JavaScript-1-FAC151.svg?logo=javascript&logoWidth=20&color=yellow)](https://github.com/iamrajthomas?tab=repositories)
+[![Typescript](https://img.shields.io/badge/TypeScript-1-FAC151.svg?logo=typescript&logoWidth=20&color=blue)](https://github.com/iamrajthomas?tab=repositories)
 
 ## 📬 Get in touch
 
