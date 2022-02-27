@@ -29,7 +29,7 @@
 
 ## 🌳 My Virtual Garden
 
-You can find my repositories where I try to resolve and experiments problems with best possible business solutions. 
+You can find my repositories where I try to resolve and experiment problems with best possible business solutions. 
 I write about things I am familiar with including **C#.Net**, **Asp.Net Core**, **Asp.Net MVC**, **Angular**, **ReactJS**, **TypeScript**, **Vanilla JS**
 
 
