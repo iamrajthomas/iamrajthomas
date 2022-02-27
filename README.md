@@ -30,7 +30,7 @@
 ## 🌳 My Virtual Garden
 
 You can find my repositories where I try to resolve and experiment problems with best possible business solutions come my way. 
-I write about things I am familiar with including **C#.Net**, **Asp.Net Core**, **Asp.Net MVC**, **Angular**, **ReactJS**, **TypeScript**, **Vanilla JS**
+I write about things I am familiar with including **C#.Net**, **Asp.Net Core**, **Asp.Net MVC**, **Angular**, **ReactJS**, **TypeScript**, **Vanilla JS**.
 
 
 ## &#x1f4c8; My GitHub Stats
