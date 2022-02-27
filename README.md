@@ -5,7 +5,7 @@
 
 [![GitHub Views](https://komarev.com/ghpvc/?style=flat&username=iamrajthomas&&label=Profile+Views&color=blueviolet)](https://github.com/iamrajthomas?tab=repositories)
 [![Asp.NetCore](https://img.shields.io/badge/Asp.NetCore-3-FAC151.svg?logo=dotnet&logoWidth=20&color=brightgreen)](https://github.com/iamrajthomas?tab=repositories)
-[![Asp.NetMVC](https://img.shields.io/badge/Asp.NetMVC-1-FAC151.svg?logo=dotnet&logoWidth=20&color=green)](https://github.com/iamrajthomas?tab=repositories)
+[![Asp.NetMVC](https://img.shields.io/badge/Asp.NetMVC-1-FAC151.svg?logo=dotnet&logoWidth=20&color=orange)](https://github.com/iamrajthomas?tab=repositories)
 [![Asp.Net](https://img.shields.io/badge/Asp.Net-1-FAC151.svg?logo=dotnet&logoWidth=20&color=yellow)](https://github.com/iamrajthomas?tab=repositories)
 [![Csharp](https://img.shields.io/badge/Csharp-14-FAC151.svg?logo=csharp&logoWidth=20&color=brightgreen)](https://github.com/iamrajthomas?tab=repositories)
 [![Typescript](https://img.shields.io/badge/TypeScript-1-FAC151.svg?logo=typescript&logoWidth=20&color=blue)](https://github.com/iamrajthomas?tab=repositories)
