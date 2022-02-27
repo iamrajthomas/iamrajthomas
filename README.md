@@ -4,12 +4,15 @@
 ## Talk to me about **Software Enginnering** :computer:, **Programming** :loop:, **Algorithms** :hourglass_flowing_sand:, **Problem Solving** :key:, **Bikes** :bike:, **Dance** :heart_eyes:, **Camera** :camera:, **Music** :headphones:, **Playstation** :video_game: and **Life** :dart: in general..!!! :relaxed:
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=iamrajthomas&color=FAC151)
-[![Asp.Net](https://img.shields.io/badge/Asp.Net-1-FAC151.svg?logo=dotnet&logoWidth=20)](https://github.com/iamrajthomas)
-[![Csharp](https://img.shields.io/badge/Csharp-13-FAC151.svg?logo=csharp&logoWidth=20)](https://github.com/iamrajthomas)
-[![typescript](https://img.shields.io/badge/TypeScript-1-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/iamrajthomas)
-[![reactjs](https://img.shields.io/badge/ReactJS-1-FAC151.svg?logo=react&logoWidth=20)](https://github.com/iamrajthomas)
-[![angular](https://img.shields.io/badge/Angular-1-FAC151.svg?logo=angular&logoWidth=20)](https://github.com/iamrajthomas)
-[![javascript](https://img.shields.io/badge/JavaScript-1-FAC151.svg?logo=javascript&logoWidth=20)](https://github.com/iamrajthomas)
+
+[![Asp.NetCore](https://img.shields.io/badge/Asp.NetCore-3-FAC151.svg?logo=dotnet&logoWidth=20)](https://github.com/iamrajthomas?tab=repositories)
+[![Asp.NetMVC](https://img.shields.io/badge/Asp.NetMVC-1-FAC151.svg?logo=dotnet&logoWidth=20)](https://github.com/iamrajthomas?tab=repositories)
+[![Asp.Net](https://img.shields.io/badge/Asp.Net-1-FAC151.svg?logo=dotnet&logoWidth=20)](https://github.com/iamrajthomas?tab=repositories)
+[![Csharp](https://img.shields.io/badge/Csharp-13-FAC151.svg?logo=csharp&logoWidth=20)](https://github.com/iamrajthomas?tab=repositories)
+[![typescript](https://img.shields.io/badge/TypeScript-1-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/iamrajthomas?tab=repositories)
+[![reactjs](https://img.shields.io/badge/ReactJS-1-FAC151.svg?logo=react&logoWidth=20)](https://github.com/iamrajthomas?tab=repositories)
+[![angular](https://img.shields.io/badge/Angular-1-FAC151.svg?logo=angular&logoWidth=20)](https://github.com/iamrajthomas?tab=repositories)
+[![javascript](https://img.shields.io/badge/JavaScript-1-FAC151.svg?logo=javascript&logoWidth=20)](https://github.com/iamrajthomas?tab=repositories)
 
 ## 📬 Get in touch
 
