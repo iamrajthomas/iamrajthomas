@@ -3,7 +3,7 @@
 
 ## Talk to me about **Software Enginnering** :computer:, **Programming** :loop:, **Algorithms** :hourglass_flowing_sand:, **Problem Solving** :key:, **Bikes** :bike:, **Dance** :heart_eyes:, **Camera** :camera:, **Music** :headphones:, **Playstation** :video_game: and **Life** :dart: in general..!!! :relaxed:
 
-![GitHub Views](https://komarev.com/ghpvc/?username=iamrajthomas&color=FAC151)
+![GitHub Views](https://komarev.com/ghpvc/?username=iamrajthomas&color=blueviolet)
 [![Asp.NetCore](https://img.shields.io/badge/Asp.NetCore-3-FAC151.svg?logo=dotnet&logoWidth=20&color=brightgreen)](https://github.com/iamrajthomas?tab=repositories)
 [![Asp.NetMVC](https://img.shields.io/badge/Asp.NetMVC-1-FAC151.svg?logo=dotnet&logoWidth=20&color=green)](https://github.com/iamrajthomas?tab=repositories)
 [![Asp.Net](https://img.shields.io/badge/Asp.Net-1-FAC151.svg?logo=dotnet&logoWidth=20&color=yellow)](https://github.com/iamrajthomas?tab=repositories)
