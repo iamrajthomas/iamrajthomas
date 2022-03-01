@@ -24,6 +24,7 @@
 
 ## :calling: Recent Activity
 
+- :page_facing_up: Please find my **[Portfolio](https://iamrajthomas.github.io/portfolio "iamrajthomas | portfolio")**.
 - :high_brightness: Help building **Enterprise** level web application with .Net and web technologies such as React, Angular.
 - :bulb: Loves to solve problems, build tools/ POCs to reduce repeative human efforts and **automate things**.
 
