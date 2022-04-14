@@ -22,10 +22,14 @@
   - :mortar_board: [iamrajthomas | Dev To](https://dev.to/iamrajthomas "iamrajthomas | Dev To")
   - :hourglass: [iamrajthomas | Medium](https://medium.com/@iamrajthomas "iamrajthomas | Medium")
 
-## :calling: Recent Activity
+## :battery: Recent Activities
 
+- :jigsaw: Created **[Hotfix Wingman](https://github.com/iamrajthomas/HotfixWingman "iamrajthomas | HotfixWingman")** for reducing repetitive human efforts.
 - :cloud_with_lightning: Created an **[Online IDE](https://github.com/iamrajthomas/OnlineIDE "iamrajthomas | OnlineIDE")** for fun.
 - :page_facing_up: Please find my **[Portfolio](https://iamrajthomas.github.io/portfolio "iamrajthomas | portfolio")**.
+
+## :computer: Long-running Activities
+
 - :high_brightness: Help building **Enterprise** level web application with .Net and web technologies such as React, Angular.
 - :bulb: Loves to solve problems, build tools/ POCs to reduce repetitive human efforts and **automate things**.
 
